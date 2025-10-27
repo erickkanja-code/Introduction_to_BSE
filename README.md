@@ -1,5 +1,7 @@
 [A simple, short title. Use a main heading (#)]
-##PROJECT TITLE
+
+## PROJECT TITLE
+
 [Use a brief paragraph. You could italicize or bold key words.]
 DESCRIPTION
 This project is a simple calculator application that can perform basic arithmetic operations.
