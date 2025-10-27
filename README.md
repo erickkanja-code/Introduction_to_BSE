@@ -1,6 +1,4 @@
-[A simple, short title. Use a main heading (#)]
-
-## PROJECT TITLE
+[A simple, short title. Use a main heading (#)]PROJECT TITLE
 
 [Use a brief paragraph. You could italicize or bold key words.]
 DESCRIPTION
